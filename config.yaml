@@ -1,0 +1,4 @@
+som:
+  grid_width: 100           # Width of the SOM grid
+  grid_height: 100          # Height of the SOM grid
+  max_iterations: 1000      # Number of training iterations
