@@ -27,6 +27,7 @@ python execSOM.py data.csv "Age" "Annual_Income" "Spending_Score"
 ```
 
 - `data.csv`: Path to the CSV file containing customer data.
+- `"Age"`: Column name for the age of customers.
 - `"Annual_Income"`: Column name for the annual income of customers.
 - `"Spending_Score"`: Column name for the customer spending score.
 
