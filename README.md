@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Run the program using the following command:
 ```bash
-python main.py data.csv "Annual_Income" "Spending_Score"
+python execSOM.py data.csv "Age" "Annual_Income" "Spending_Score" 
 ```
 
 - `data.csv`: Path to the CSV file containing customer data.
