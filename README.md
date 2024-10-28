@@ -1,6 +1,4 @@
-Here's a summary for your GitHub README file:
 
----
 
 # Self-Organizing Map (SOM) for Customer Segmentation
 
