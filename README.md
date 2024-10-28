@@ -43,6 +43,4 @@ CustomerID,Gender,Age,Annual_Income,Spending_Score
 
 Modify `config.yaml` to customize SOM grid dimensions, number of training iterations, and image output paths.
 
----
 
-This should give users a clear idea of how to set up and use your SOM program.
